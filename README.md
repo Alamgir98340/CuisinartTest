@@ -1,7 +1,5 @@
 # Web Automation on Cuisinart Test Website with Selenium JUnit5
 
-## Video Output:
-
 
 
 ## Scenario:
