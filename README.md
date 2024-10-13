@@ -1,6 +1,7 @@
 # Web Automation on Cuisinart Test Website with Selenium JUnit5
 
-
+## Video Output:
+[CuisinartTest-main.webm](https://github.com/user-attachments/assets/45d99074-ac6a-4082-957e-80170ed42933)
 
 ## Scenario:
 1. Visit the site: https://storefront:conair1@stage.cuisinart.com/
